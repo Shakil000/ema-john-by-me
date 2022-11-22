@@ -1,0 +1,23 @@
+.products{
+    display: flex;
+}
+
+.products-container{
+    width: 80%;
+    border-right: 1px solid;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.cart-container p{
+    margin-left: 0px;
+    padding: 0px;
+
+
+}
+
+.cart-container button{
+    background-color: goldenrod;
+    height: 30px;
+    width: 130px;
+    
+}
