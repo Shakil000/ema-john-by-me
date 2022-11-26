@@ -1,10 +1,8 @@
 import React from 'react';
 import Header from '../Header/Header';
-import Shop from '../Shop/Shop';
+import Shop from './Shop';
 
-
-
-const Review = () => {
+const Shops = () => {
     return (
         <div>
             <Header></Header>
@@ -13,4 +11,4 @@ const Review = () => {
     );
 };
 
-export default Review;
+export default Shops;

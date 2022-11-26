@@ -3,8 +3,7 @@ import Header from '../Header/Header';
 import Shop from '../Shop/Shop';
 
 
-
-const Review = () => {
+const Inventory = () => {
     return (
         <div>
             <Header></Header>
@@ -13,4 +12,4 @@ const Review = () => {
     );
 };
 
-export default Review;
+export default Inventory;

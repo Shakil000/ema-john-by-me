@@ -9,9 +9,10 @@ const Header = () => {
         <div className='header'>
             <img src={logo} alt="" />
             <nav>
-            <a href="Shop.js">Shop</a>
-            <a href="Review.js">Review</a>
-            <a href="Inventory.js">Inventory</a>
+            <a href="/shops">Shop</a>
+            <a href="/review">Review</a>
+            <a href="/inventory">Inventory</a>
+            <a href='/login'>Login</a>
             </nav>
             <div className='search-box'>
             <input type="search" placeholder='type here to search'/>
